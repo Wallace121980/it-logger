@@ -1,11 +1,11 @@
 {
   "logs": [
     {
+      "id": 1,
       "message": "Changed network card in server 007",
       "attention": false,
-      "tech": "Sam Smith",
-      "date": "2021-03-08T18:55:27.606Z",
-      "id": 1
+      "tech": "John Doe",
+      "date": "2021-03-16T18:53:23.168Z"
     },
     {
       "id": 2,
